@@ -11,3 +11,5 @@
 /gradle.properties
 /gradlew
 /gradlew.bat
+/.idea/
+/gradle/
